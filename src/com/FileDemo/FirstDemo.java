@@ -1,4 +1,4 @@
-package com.IODemo;
+package com.FileDemo;
 
 public class FirstDemo {
 }
